@@ -1,1 +1,1 @@
-# gyus_world.github.io
+# gyus-world.github.io
